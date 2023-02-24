@@ -857,10 +857,10 @@ RectTransform:
   m_Father: {fileID: 1190231995}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0.00012207031, y: 1.2679443}
-  m_SizeDelta: {x: 38.040283, y: 32.968018}
+  m_SizeDelta: {x: 1958.0403, y: 1112.968}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1059470139
 GameObject:
@@ -873,7 +873,7 @@ GameObject:
   - component: {fileID: 1059470141}
   - component: {fileID: 1059470140}
   m_Layer: 0
-  m_Name: Square
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
